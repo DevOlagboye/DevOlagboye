@@ -2,7 +2,8 @@
 
 ### I am a Frontend Engineer and a Web3 Enthusiast.
 
-🔭 I'm currently working with some amazing startups and providing solutions with my Frontend Engineering Skills
+🔭 I'm currently working with some amazing startups and providing solutions with my Frontend Engineering Skills.
+
 🌱 I am currently learning more and more of React looking into Exploring Next.js and Typescript very soon as well as I have been expanding my knowledge in Web3 I have been learning Solidity to be able to write Smart Contracts.
 <!--
 **Akingbola1234/Akingbola1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
