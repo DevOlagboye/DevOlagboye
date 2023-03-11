@@ -10,7 +10,7 @@
 
 ⚡ Fun fact: I am a lover of Action Games as well as Football Games.
 
-I am a lover of Minimalist Designs, I love simple and seamless Interfaces and Experience. 
+I Love Minimalist Designs, as well as simple and seamless Interfaces and Experiences. 
 <!--
 **Akingbola1234/Akingbola1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
