@@ -1,11 +1,13 @@
 ### Hi there 👋 I am Olagboye Seyi
 
+### I am a Frontend Engineer and a Web3 Enthusiast.
+
 <!--
 **Akingbola1234/Akingbola1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I'm currently working on some amazing startups and providing solutions with my Frontend Engineering Skilss
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
