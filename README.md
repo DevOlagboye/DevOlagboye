@@ -7,6 +7,10 @@
 🌱 I am currently learning more and more of React looking into Exploring Next.js and Typescript very soon as well as I have been expanding my knowledge in Web3 I have been learning Solidity to be able to write Smart Contracts.
 
 👯 I'm looking into contributing to more community providing solutions on the space as well as contributing to Web3 Community creating solutions on the Web3 Space.
+
+⚡ Fun fact: I am a lover of Action Games as well as Football Games.
+
+I am a lover of Minimalist Designs, I love simple and seamless Interfaces and Experience. 
 <!--
 **Akingbola1234/Akingbola1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +21,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Akingbola1234&theme=dark)](https://git.io/streak-stats)
