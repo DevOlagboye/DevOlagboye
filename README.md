@@ -4,7 +4,7 @@
 
 🔭 I'm currently working with some amazing startups and providing solutions with my Frontend Engineering Skills.
 
-🌱 I am currently learning more and more of React looking into Exploring Next.js and Typescript very soon as well as I have been expanding my knowledge in Web3 I have been learning Solidity to be able to write Smart Contracts.
+🌱 I am currently learning more of React looking into Exploring Next.js and Typescript very soon as well as I have been expanding my knowledge in Web3 I have been learning Solidity to be able to write Smart Contracts.
 
 👯 I'm looking into contributing to more community providing solutions on the space as well as contributing to Web3 Community creating solutions on the Web3 Space.
 
