@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Akingbola1234&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DevOlagboye&theme=dark)](https://git.io/streak-stats)
